@@ -1,0 +1,26 @@
+{
+  "name": "node-console-table",
+  "version": "0.0.1",
+  "description": "Provides advanced tables for NodeJS",
+  "main": "console-table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Newleatk/node-console-table.git"
+  },
+  "keywords": [
+    "console",
+    "table",
+    "node",
+    "colours",
+    "colors"
+  ],
+  "author": "Benderwan Launay <benderwan.launay@newlea.tk> (https://newlea.tk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Newleatk/node-console-table/issues"
+  },
+  "homepage": "https://github.com/Newleatk/node-console-table#readme"
+}
